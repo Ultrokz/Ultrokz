@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕷️ ULTROKZ
+# 🕷️ KokushiboModz
 
 ```text
   _                                                                        
@@ -52,9 +52,9 @@
 
 </div>
 
-Ultrokz is an independent Developer and Game Modder.
+KokushiboModz is an independent Developer and Game Modder.
 
-ULTROKZ focuses on:
+KokushiboModz focuses on:
 
 - 🛠️ Custom development tools
 - 🎮 Game modification research
@@ -183,7 +183,7 @@ Not every experiment becomes a finished project — and that's part of developme
 
 🧪 Current Direction
 
-ULTROKZ started around game modding, but the vision is expanding.
+KokushiboModz started around game modding, but the vision is expanding.
 
 The long-term direction is focused on building:
 
@@ -227,15 +227,15 @@ For collaboration, development, project discussions, or community-related questi
 
 ⚠️ Disclaimer
 
-ULTROKZ is an independent community and development collective.
+KokushiboModz is an independent community and development collective.
 
 All third-party software, games, assets, trademarks, names, and intellectual property belong to their respective owners.
 
-Projects published by ULTROKZ are intended for research, experimentation, education, and development purposes.
+Projects published by KokushiboModz are intended for research, experimentation, education, and development purposes.
 
 ---
 
-<div align="center">⚡ ULTROKZ
+<div align="center">⚡ KokushiboModz
 
 Experiment • Learn  • Create  • Build
 
