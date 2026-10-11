@@ -75,7 +75,7 @@ Want to chat with the team, test upcoming releases, or follow development progre
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ultrokz)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+wkGhc5elrAA3N2M1)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ultrokz)
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ultrokz)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeXOIX)
 [![Email](https://img.shields.io/badge/Email-Ultrokz.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ultrokz.dev@gmail.com)
 
 ---
